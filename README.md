@@ -2,7 +2,7 @@
 
 ## Overview
 
-This analysis compares Amazon Vine data on video game reviews to determine determine whether there is bias in reviews for memebrs of teh vine program.
+This analysis compares Amazon Vine data on video game reviews to determine whether there is bias in reviews from members of the vine program.
 
 ## Results
 
